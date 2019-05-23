@@ -10,7 +10,8 @@ project "lua"
 	files
     {
         "**.h",
-        "**.c"
+        "**.c",
+        "lua.hpp"
     }
 
     includedirs { "" }
